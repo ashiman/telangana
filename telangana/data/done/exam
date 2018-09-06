@@ -1,0 +1,432 @@
+TSBIE | Hall Tickets
+తెలంగాణ రాష్ట్ర ఇంటర్ విద్యా మండలి
+HALL TICKETS (IPASE MAY-2018) & RESULTS (IPE MARCH-2018)
+
+Hall Tickets
+Results
+For any Queries please mail to helpdesk-ie@telangana.gov.in
+                                            Contact 040-24600110
+(Timings 9:30 AM to 5:30 PM)
+Download Center Locator APP
+TSBIE
+తెలంగాణ రాష్ట్ర ఇంటర్ విద్యా మండలి
+Intermediate Public Examinations Results - 2018
+Home
+First Year (General)
+Second Year (General)
+First Year (Vocational)
+Second Year (Vocational)
+
+For any Queries please mail to helpdesk-ie@telangana.gov.in
+                                Contact 040-24600110
+(Timings 9:30 AM to 5:30 PM)
+Download TSBIE services App
+TSBIE | Hall Tickets
+తెలంగాణ రాష్ట్ర ఇంటర్ విద్యా మండలి
+DOWNLOAD HALL TICKETS IPASE MAY - 2018
+Home
+First Year (General)
+Second Year (General)
+First Year (Vocational)
+Second Year (Vocational)
+
+For any Queries please mail to helpdesk-ie@telangana.gov.in
+                                Contact 040-24600110
+(Timings 9:30 AM to 5:30 PM)
+Download Center Locator APP
+TSBIE | Results
+తెలంగాణ రాష్ట్ర ఇంటర్ విద్యా మండలి
+Intermediate Public Examinations Results - 2018
+Home
+First Year (Vocational)
+TSBIE
+Enter Hall Ticket Number
+Select Year & Month.
+Enter Hall Ticket No.
+Student Information
+Hall Ticket No.
+{{ result.rollno }}
+District
+{{ result.dist_name }}
+Student Name
+{{ result.cname }}
+Course
+{{ result.course_name }}
+Marks Details
+Subject
+Marks
+Result
+{{ result.yr1fpc1 }}
+{{ result.yr1fmks1 }}
+{{ result.yr1fpc1_result }}
+{{ result.yr1fpc2 }}
+{{ result.yr1fmks2 }}
+{{ result.yr1fpc2_result }}
+{{ result.yr1tpc1 }}
+{{ result.yr1tmks1 }}
+{{ result.yr1tpc1_result }}
+{{ result.yr1tpc2 }}
+{{ result.yr1tmks2 }}
+{{ result.yr1tpc2_result }}
+{{ result.yr1tpc3 }}
+{{ result.yr1tmks3 }}
+{{ result.yr1tpc3_result }}
+{{ result.yr1ppc1 }}
+{{ result.yr1pmks1 }}
+{{ result.yr1ppc1_result }}
+{{ result.yr1ppc2 }}
+{{ result.yr1pmks2 }}
+{{ result.yr1ppc2_result }}
+{{ result.yr1ppc3 }}
+{{ result.yr1pmks3 }}
+{{ result.yr1ppc3_result }}
+{{ result.yr1ppc4 }}
+{{ result.yr1pmks4 }}
+{{ result.yr1ppc4_result }}
+Final Results
+Total Marks
+{{ result.total }}
+Grade
+{{ result.result }}
+* - Indicates Previous Performance, P - Pass, F - Fail, A - Absent, W - Withheld, M - Malpractice, N - Not Registered, COMP - Compartmental
+A-Grade >=75%  B-Grade >=60% and < 75%  C-Grade >=50% and < 60%  D-Grade >=35% and < 50%
+Disclaimer:
+Greetings from DOST (Degree Online Services, Telangana) 2018-19
+Gateway
+DOST
+Instructions for UG Online Admission (DOST-2018):
+Link your mobile number with your Aadhaar number, and update name, gender and date of birth as per SSC/Intermediate Certificate in Aadhaar Card, in advance.
+Verify your Aadhaar number seeded/linked with your mobile number through the link
+www.resident.uidai.gov.in/aadhaarverification.
+Visit
+https://dost.cgg.gov.in
+You have to pay Rs. 200/- online to register on DOST.
+One Time Password (OTP) will be sent to your Aadhaar linked mobile number.  Once you receive OTP, login for further registration process.
+DOST ID will be generated based on your hall ticket and this will be valid and referred to till the process of admission is completed.
+If applicable Caste Certificate (with CND number and sub-caste)/ Income Certificate (on or after 01.01.2018)/ Games and Sports Certificate/ N.C.C. Certificate/ Extra Curricular Certificate/ Physically Handicapped Certificate/ Ex- service Men Certificates, should be kept ready.
+Chairman, TSCHE
+Commissioner, Collegiate Education
+TSBIE | Results
+తెలంగాణ రాష్ట్ర ఇంటర్ విద్యా మండలి
+Intermediate Public Examinations Results - 2018
+Home
+Second Year (Vocational)
+TSBIE
+Enter Hall Ticket Number
+Select Year & Month.
+Enter Hall Ticket No.
+Student Information
+Hall Ticket No.
+{{ result.rollno }}
+District
+{{ result.dist_name }}
+Student Name
+{{ result.cname }}
+Course
+{{ result.course_name }}
+Marks Details - I Year
+Marks Details - II Year
+Subject
+Marks
+Result
+{{ result.yr1fpc1 }}
+{{ result.yr1fmks1 }}
+{{ result.yr1fpc1_result }}
+{{ result.yr2fpc1 }}
+{{ result.yr2fmks1 }}
+{{ result.yr2fpc1_result }}
+{{ result.yr1fpc2 }}
+{{ result.yr1fmks2 }}
+{{ result.yr1fpc2_result }}
+{{ result.yr2fpc2 }}
+{{ result.yr2fmks2 }}
+{{ result.yr2fpc2_result }}
+{{ result.yr1fpc3 }}
+{{ result.yr1fmks3 }}
+{{ result.yr1fpc3_result }}
+{{ result.yr2fpc3 }}
+{{ result.yr2fmks3 }}
+{{ result.yr2fpc3_result }}
+{{ result.yr1tpc1 }}
+{{ result.yr1tmks1 }}
+{{ result.yr1tpc1_result }}
+{{ result.yr2tpc1 }}
+{{ result.yr2tmks1 }}
+{{ result.yr2tpc1_result }}
+{{ result.yr1tpc2 }}
+{{ result.yr1tmks2 }}
+{{ result.yr1tpc2_result }}
+{{ result.yr2tpc2 }}
+{{ result.yr2tmks2 }}
+{{ result.yr2tpc2_result }}
+{{ result.yr1tpc3 }}
+{{ result.yr1tmks3 }}
+{{ result.yr1tpc3_result }}
+{{ result.yr2tpc3 }}
+{{ result.yr2tmks3 }}
+{{ result.yr2tpc3_result }}
+{{ result.yr1tpc4 }}
+{{ result.yr1tmks4 }}
+{{ result.yr1tpc4_result }}
+{{ result.yr2tpc4 }}
+{{ result.yr2tmks4 }}
+{{ result.yr2tpc4_result }}
+{{ result.yr1tpc5 }}
+{{ result.yr1tmks5 }}
+{{ result.yr1tpc5_result }}
+{{ result.yr2tpc5 }}
+{{ result.yr2tmks5 }}
+{{ result.yr2tpc5_result }}
+{{ result.yr1ppc1 }}
+{{ result.yr1pmks1 }}
+{{ result.yr1ppc1_result }}
+{{ result.yr2ppc1 }}
+{{ result.yr2pmks1 }}
+{{ result.yr2ppc1_result }}
+{{ result.yr1ppc2 }}
+{{ result.yr1pmks2 }}
+{{ result.yr1ppc2_result }}
+{{ result.yr2ppc2 }}
+{{ result.yr2pmks2 }}
+{{ result.yr2ppc2_result }}
+{{ result.yr1ppc3 }}
+{{ result.yr1pmks3 }}
+{{ result.yr1ppc3_result }}
+{{ result.yr2ppc3 }}
+{{ result.yr2pmks3 }}
+{{ result.yr2ppc3_result }}
+{{ result.yr1ppc4 }}
+{{ result.yr1pmks4 }}
+{{ result.yr1ppc4_result }}
+{{ result.yr2ppc4 }}
+{{ result.yr2pmks4 }}
+{{ result.yr2ppc4_result }}
+{{ result.yr1ppc5 }}
+{{ result.yr1pmks5 }}
+{{ result.yr1ppc5_result }}
+{{ result.yr2ppc5 }}
+{{ result.yr2pmks5 }}
+{{ result.yr2ppc5_result }}
+Final Results
+Total Marks
+{{ result.total }}
+Grade
+{{ result.result }}
+* - Indicates Previous Performance, P - Pass, F - Fail, A - Absent, W - Withheld, M - Malpractice, N - Not Registered, COMP - Compartmental
+A-Grade >=75%  B-Grade >=60% and < 75%  C-Grade >=50% and < 60%  D-Grade >=35% and < 50%
+Disclaimer:
+Greetings from DOST (Degree Online Services, Telangana) 2018-19
+Gateway
+DOST
+Instructions for UG Online Admission (DOST-2018):
+Link your mobile number with your Aadhaar number, and update name, gender and date of birth as per SSC/Intermediate Certificate in Aadhaar Card, in advance.
+Verify your Aadhaar number seeded/linked with your mobile number through the link
+www.resident.uidai.gov.in/aadhaarverification.
+Visit
+https://dost.cgg.gov.in
+You have to pay Rs. 200/- online to register on DOST.
+One Time Password (OTP) will be sent to your Aadhaar linked mobile number.  Once you receive OTP, login for further registration process.
+DOST ID will be generated based on your hall ticket and this will be valid and referred to till the process of admission is completed.
+If applicable Caste Certificate (with CND number and sub-caste)/ Income Certificate (on or after 01.01.2018)/ Games and Sports Certificate/ N.C.C. Certificate/ Extra Curricular Certificate/ Physically Handicapped Certificate/ Ex- service Men Certificates, should be kept ready.
+Chairman, TSCHE
+Commissioner, Collegiate Education
+TSBIE | Results
+తెలంగాణ రాష్ట్ర ఇంటర్ విద్యా మండలి
+Intermediate Public Examinations Results - 2018
+Home
+Second Year (General)
+TSBIE
+Enter Hall Ticket Number
+Select Year & Month.
+Enter Hall Ticket No.
+Student Information
+Hall Ticket No.
+{{ result.rollno }}
+District
+{{ result.dist_name }}
+Student Name
+{{ result.cname }}
+Marks Details - I Year
+Marks Details - II Year
+Subject
+Marks
+Result
+{{ result.yr1pc1 }}
+{{ result.yr1mks1 }}
+{{ result.yr1pc1_result }}
+{{ result.yr2pc1 }}
+{{ result.yr2mks1 }}
+{{ result.yr2pc1_result }}
+{{ result.yr1pc2 }}
+{{ result.yr1mks2 }}
+{{ result.yr1pc2_result }}
+{{ result.yr2pc2 }}
+{{ result.yr2mks2 }}
+{{ result.yr2pc2_result }}
+{{ result.yr1pc3 }}
+{{ result.yr1mks3 }}
+{{ result.yr1pc3_result }}
+{{ result.yr2pc3 }}
+{{ result.yr2mks3 }}
+{{ result.yr2pc3_result }}
+{{ result.yr1pc4 }}
+{{ result.yr1mks4 }}
+{{ result.yr1pc4_result }}
+{{ result.yr2pc4 }}
+{{ result.yr2mks4 }}
+{{ result.yr2pc4_result }}
+{{ result.yr1pc5 }}
+{{ result.yr1mks5 }}
+{{ result.yr1pc5_result }}
+{{ result.yr2pc5 }}
+{{ result.yr2mks5 }}
+{{ result.yr2pc5_result }}
+{{ result.yr1pc6 }}
+{{ result.yr1mks6 }}
+{{ result.yr1pc6_result }}
+{{ result.yr2pc6 }}
+{{ result.yr2mks6 }}
+{{ result.yr2pc6_result }}
+
+{{ result.yr2pc7 }}
+{{ result.yr2mks7 }}
+{{ result.yr2pc7_result }}
+{{ result.yr2pc8 }}
+{{ result.yr2mks8 }}
+{{ result.yr2pc8_result }}
+{{ result.yr2pc9 }}
+{{ result.yr2mks9 }}
+{{ result.yr2pc9_result }}
+{{ result.yr2pc10 }}
+{{ result.yr2mks10 }}
+{{ result.yr2pc10_result }}
+Final Results
+Total Marks
+{{ result.total }}
+Grade
+{{ result.result }}
+* - Indicates Previous Performance, P - Pass, F - Fail, A - Absent, W - Withheld, M - Malpractice, N - Not Registered, COMP - Compartmental
+A-Grade >=75%  B-Grade >=60% and < 75%  C-Grade >=50% and < 60%  D-Grade >=35% and < 50%
+Disclaimer:
+Greetings from DOST (Degree Online Services, Telangana) 2018-19
+Gateway
+DOST
+Instructions for UG Online Admission (DOST-2018):
+Link your mobile number with your Aadhaar number, and update name, gender and date of birth as per SSC/Intermediate Certificate in Aadhaar Card, in advance.
+Verify your Aadhaar number seeded/linked with your mobile number through the link
+www.resident.uidai.gov.in/aadhaarverification.
+Visit
+https://dost.cgg.gov.in
+You have to pay Rs. 200/- online to register on DOST.
+One Time Password (OTP) will be sent to your Aadhaar linked mobile number.  Once you receive OTP, login for further registration process.
+DOST ID will be generated based on your hall ticket and this will be valid and referred to till the process of admission is completed.
+If applicable Caste Certificate (with CND number and sub-caste)/ Income Certificate (on or after 01.01.2018)/ Games and Sports Certificate/ N.C.C. Certificate/ Extra Curricular Certificate/ Physically Handicapped Certificate/ Ex- service Men Certificates, should be kept ready.
+Chairman, TSCHE
+Commissioner, Collegiate Education
+TSBIE | Results
+తెలంగాణ రాష్ట్ర ఇంటర్ విద్యా మండలి
+Intermediate Public Examinations Results - 2018
+Home
+First Year (General)
+TSBIE
+Enter Hall Ticket Number
+Select Year & Month.
+Enter Hall Ticket No.
+Student Information
+Hall Ticket No.
+{{ result.rollno }}
+District
+{{ result.dist_name }}
+Student Name
+{{ result.cname }}
+Marks Details
+Subject
+Marks
+Result
+{{ result.yr1pc1 }}
+{{ result.yr1mks1 }}
+{{ result.yr1pc1_result }}
+{{ result.yr1pc2 }}
+{{ result.yr1mks2 }}
+{{ result.yr1pc2_result }}
+{{ result.yr1pc3 }}
+{{ result.yr1mks3 }}
+{{ result.yr1pc3_result }}
+{{ result.yr1pc4 }}
+{{ result.yr1mks4 }}
+{{ result.yr1pc4_result }}
+{{ result.yr1pc5 }}
+{{ result.yr1mks5 }}
+{{ result.yr1pc5_result }}
+{{ result.yr1pc6 }}
+{{ result.yr1mks6 }}
+{{ result.yr1pc6_result }}
+Final Results
+Total Marks
+{{ result.total }}
+Grade
+{{ result.result }}
+* - Indicates Previous Performance, P - Pass, F - Fail, A - Absent, W - Withheld, M - Malpractice, N - Not Registered, COMP - Compartmental
+A-Grade >=75%  B-Grade >=60% and < 75%  C-Grade >=50% and < 60%  D-Grade >=35% and < 50%
+Disclaimer:
+Greetings from DOST (Degree Online Services, Telangana) 2018-19
+Gateway
+DOST
+Instructions for UG Online Admission (DOST-2018):
+Link your mobile number with your Aadhaar number, and update name, gender and date of birth as per SSC/Intermediate Certificate in Aadhaar Card, in advance.
+Verify your Aadhaar number seeded/linked with your mobile number through the link
+www.resident.uidai.gov.in/aadhaarverification.
+Visit
+https://dost.cgg.gov.in
+You have to pay Rs. 200/- online to register on DOST.
+One Time Password (OTP) will be sent to your Aadhaar linked mobile number.  Once you receive OTP, login for further registration process.
+DOST ID will be generated based on your hall ticket and this will be valid and referred to till the process of admission is completed.
+If applicable Caste Certificate (with CND number and sub-caste)/ Income Certificate (on or after 01.01.2018)/ Games and Sports Certificate/ N.C.C. Certificate/ Extra Curricular Certificate/ Physically Handicapped Certificate/ Ex- service Men Certificates, should be kept ready.
+Chairman, TSCHE
+Commissioner, Collegiate Education
+TSBIE | Hall Tickets
+తెలంగాణ రాష్ట్ర ఇంటర్ విద్యా మండలి
+HALL TICKETS (IPASE MAY-2018) & RESULTS (IPE MARCH-2018)
+
+Hall Tickets
+Results
+For any Queries please mail to helpdesk-ie@telangana.gov.in
+                                            Contact 040-24600110
+(Timings 9:30 AM to 5:30 PM)
+Download Center Locator APP
+TSBIE
+తెలంగాణ రాష్ట్ర ఇంటర్ విద్యా మండలి
+DOWNLOAD HALL TICKETS IPASE MAY - 2018
+Home
+Enter Hall Ticket No
+You can download your Hall ticket from below links:
+https://admi.tsbie.cgg.gov.in
+https://tsbie.cgg.gov.in
+
+TSBIE
+తెలంగాణ రాష్ట్ర ఇంటర్ విద్యా మండలి
+DOWNLOAD HALL TICKETS IPASE MAY - 2018
+Home
+Enter Hall Ticket No
+You can download your Hall ticket from below links:
+https://admi.tsbie.cgg.gov.in
+https://tsbie.cgg.gov.in
+
+TSBIE
+తెలంగాణ రాష్ట్ర ఇంటర్ విద్యా మండలి
+DOWNLOAD HALL TICKETS IPASE MAY - 2018
+Home
+Enter Hall Ticket No
+You can download your Hall ticket from below links:
+https://admi.tsbie.cgg.gov.in
+https://tsbie.cgg.gov.in
+
+TSBIE
+తెలంగాణ రాష్ట్ర ఇంటర్ విద్యా మండలి
+DOWNLOAD HALL TICKETS IPASE MAY - 2018
+Home
+Enter Hall Ticket No
+You can download your Hall ticket from below links:
+https://admi.tsbie.cgg.gov.in
+https://tsbie.cgg.gov.in
+

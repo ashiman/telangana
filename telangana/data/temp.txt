@@ -1,0 +1,1271 @@
+
+                                                                                                            All Components
+                                                                                                            IWMP Task Rates
+                                                                                                & Achievement Report
+                                                                                                & Adjustments Report
+                                                                                                & Microwatershed wise Area Report
+                                                                                                Analysis Report
+                                                                                                Card (e-PayOrder) Disbursement Report
+                                                                                                Comparision Statement Report
+                                                                                                Componentwise offline & Online Expenditure Report
+                                                                                                DPR Status Report
+                                                                                                DPRs Online Upload(Cluster and Micros)status Report
+                                                                                                Detailed Report
+                                                                                                Details
+                                                                                                Details Report
+                                                                                                Eligibility
+                                                                                                Entry Abstract Report
+                                                                                                FTO Delay Analysis Report
+                                                                                                FTO Status Analysis Report
+                                                                                                FTO Wise Status Report(Based on DSK upload)
+                                                                                                FTO details Report
+                                                                                                Groupwise Training Progress Report
+                                                                                                I&CB Financial Report
+                                                                                                Institutional Fund Expenditure Report
+                                                                                                Master Information
+                                                                                                Monitoring Report
+                                                                                                NRM works Monitoring Report
+                                                                                                Of Habitations Report
+                                                                                                Pending FTO Details Report
+                                                                                                Plan State Abstract Report
+                                                                                                Progress Report
+                                                                                                Quality Assurance Instruments Tools Details
+                                                                                                Ranking Report
+                                                                                                Report
+                                                                                                Smart Card Progress Review Report
+                                                                                                Status Monitoring Report
+                                                                                                Status Report
+                                                                                                Status Report(Online)
+                                                                                                WCC Watershed Review Report
+                                                                                                Wise Abstract Report
+                                                                                                Wise DPR Preparation Report
+                                                                                                Wise Ranking Report
+                                                                                                shelf of works-120 percent
+                                                                                            & Afforestation Reports
+                                                                                            - State Abstract Report(R17.9 New)
+                                                                                            Action Plan Report
+                                                                                            Action Plan(Proforma-18)
+                                                                                            Action Plan(Proforma-19)
+                                                                                            Action Plan(R17.8 New)
+                                                                                            Batch-Wise Details Report(R17.2 New)
+                                                                                            Batch-Wise Details Report(R18.2 New)
+                                                                                            Block-Wise Action Plan(R18.8 New)
+                                                                                            Category wise Report(PMKSY-22 Projects)
+                                                                                            Check Measurement Report
+                                                                                            Details Report (Proforma-3)
+                                                                                            Details Report(Proforma-2)
+                                                                                            Development Department
+                                                                                            EFMS File Status Report
+                                                                                            Item-Wise Details Report (R17.3 New)
+                                                                                            Item-Wise Details Report (R18.3 New)
+                                                                                            On Area To Be Treated
+                                                                                            Ongoing Projects Report(Proforma-1)
+                                                                                            Plan & Progress Report
+                                                                                            Plan - State Abstract Report
+                                                                                            Plan - State Abstract Report(R18.9 New)
+                                                                                            Plan Report(Proforma 10-16)
+                                                                                            Plan Report(Proforma-17)
+                                                                                            Plan Report(R17.5 New)
+                                                                                            Plan Report(R18.5 New)
+                                                                                            Project-Wise Action Plan(R17.7 New)
+                                                                                            Project-Wise Action Plan(R18.7 New)
+                                                                                            Projects Report(Proforma-1)
+                                                                                            Report(PMKSY-22 Projects)
+                                                                                            Report(Proforma 10-16)
+                                                                                            Report(Proforma-17)
+                                                                                            Rural Development Department
+                                                                                            Status Report
+                                                                                            Strategic Action Plan
+                                                                                            Strategic Action Plan Report
+                                                                                            Works On Google Maps
+                                                                                            of Ongoing Projects Report(R17.1 New)
+                                                                                            of Ongoing Projects Report(R18.1 New)
+                                                                                            of Training Progress Report
+                                                                                        Level DoLR Input Sheet-Revised
+                                                                                        Manual For Admin Approvals in PD Login(WEB)
+                                                                                        Physical & Financial Progress Report
+                                                                                        Progress Report
+                                                                                        Project wise Financial Progress Report
+                                                                                        Status Report
+                                                                    A/c Details (updated on 22-NOV-2011)
+                                                                    Audit Portal
+                                                                    Input Sheets (updated on 07-MAR-2012)
+                                                                    Report
+                                                                    System(RTS)
+                                                                    of Latest Versions (updated on 28-Dec-2015)
+                                                                    on Watersheds (updated on 05-Jun-2015)
+                                                            (Introduction to Watershed Programme)
+                                                            (Milch Animals )
+                                                            (Raising of fodder)
+                                                            (Small Ruminants)
+                                                            (Sustainable Agriculture)
+                                                            (Water Harvesting Structures)
+                                                            -1
+                                                            -2
+                                                            Managed Sustainable Agriculture (CMSA) by SERP
+                                                            Praramba dasalu (Preparatory phase activities of IWMP)
+                                                            interventions under IWMP
+                                                            of IWMP in Telangana
+                                                            on various themes
+                                                            panulu (Soil moisture conservation works)
+                                                    Programme, Employement Assurance Scheme Programme and APRLP. Based on the recommendations
+                                                    development called Integrated Watershed Management Programme (IWMP) in 2008.
+                                                    of Land resources, Government of India launched new integrated program on watershed
+                                                    of Technical Committee under the Chairmanship of Prof. C.H. Hanumantha Rao, Department
+                                                    programmes viz. Integrated Wastelands Development Programme, Drought Prone Areas
+                display: none;
+            body
+            {
+            }
+          Certain further guidelines issued on the basis of feedback from the
+        IWMP villages’ representation to revise the unit cost
+        {
+        }
+ UNDER IWMP
+ field functionaries
+% of the Budget
+(A) Schedule Report
+(A)Abstract
+(A)Batch
+(A)NRM
+(A)RSSR
+(A)Wages
+(A)Work Status Analysis Report
+(B) Meetings Report
+(B)CSSR
+(B)Component
+(B)Detailed
+(B)EPA
+(B)Shelf of Works Report
+(B)Works
+(C) Progress Report
+(C)PSI
+- Administrative costs
+- Detailed Project Report (DPR)
+- Entry point activities
+- Evaluation
+- Institution and capacity building,
+- Livelihood activities for the asset less persons
+- Monitoring
+- Production system and micro enterprises
+- Watershed development works
+0
+01-AUG-2013
+01-DEC-2011
+01-JAN-2011
+01-JAN-2012
+01-JUN-2011
+01-MAR-2011
+01-MAY-2011
+01-MAY-2013
+01-NOV-2010
+01-OCT-2010
+02-AUG-2012
+02-FEB-2018
+02-JAN-2014
+02-JUL-2011
+02-NOV-2010
+03-JAN-2015
+03-NOV-2010
+03-SEP-2013
+04-JAN-2012
+04-JUL-2008
+04-MAR-2013
+04-NOV-2010
+05-AUG-2014
+05-DEC-2014
+05-MAY-2011
+06-APR-2011
+06-AUG-2008
+06-SEP-2008
+06-SEP-2010
+07-AUG-2013
+07-MAY-2011
+07-MAY-2013
+08-OCT-2015
+09-APR-2014
+09-APR-2015
+09-NOV-2010
+1
+10
+10-APR-2012
+10-JUL-2014
+10-JUN-2011
+10-JUN-2015
+10-MAY-2011
+10/19/11 10:11 AM
+100
+11
+11-APR-2012
+11-APR-2014
+11-AUG-2011
+11-AUG-2014
+11-FEB-2015
+11-JAN-2013
+12
+12-AUG-2013
+12-DEC-2011
+12-JAN-2015
+12-MAR-2013
+12-OCT-2011
+129
+13
+13-MAY-2011
+13-MAY-2013
+14
+14-FEB-2011
+15
+15-OCT-2014
+16
+16-AUG-2011
+16-DEC-2015
+16-MAR-2011
+16-SEP-2010
+16-SEP-2014
+17
+17-FEB-2014
+17-JAN-2012
+17-MAR-2015
+17-MAY-2012
+17-OCT-2012
+17-SEP-2010
+18
+18-FEB-2013
+18-MAR-2014
+18-OCT-2013
+18-SEP-2014
+19
+19-AUG-2008
+19-AUG-2010
+19-DEC-2014
+19-DEC-2017
+19-FEB-2015
+19-JAN-2015
+19-SEP-2011
+19-SEP-2014
+2
+20
+20-APR-2011
+20-JUN-2011
+20-JUN-2012
+20-NOV-2014
+20-SEP-2010
+20-SEP-2014
+2009-10
+2009-10 (Batch I)
+2010-11
+2010-11 (Batch II)
+2011-12
+2011-12 (Batch III)
+2012-13
+2012-13 (Batch IV)
+2013-14
+2013-14 (Batch V)
+2014-15
+2014-15(BATCH VI)
+2015-2016
+2016-2017
+2017-2018
+2018-2019
+2019-2020
+2020-2021
+21
+21-JUN-2011
+21-MAR-2011
+21-MAR-2012
+21-MAY-2013
+21-OCT-2014
+21-SEP-2010
+22
+22-FEB-2012
+22-FEB-2014
+22-JAN-2015
+22-MAR-2014
+22-MAY-2015
+22-SEP-2010
+23
+23-APR-2011
+23-FEB-2013
+23-FEB-2015
+23-JAN-2012
+23-JUL-2012
+23-JUL-2014
+23-MAY-2013
+24
+24-JUN-2011
+25
+25-APR-2014
+25-FEB-2013
+25-JUN-2011
+25-SEP-2014
+26
+26-DEC-2012
+26-FEB-2013
+26-MAR-2013
+26-OCT-2012
+27
+27-JAN-2011
+27-OCT-2011
+27-OCT-2014
+28
+28-APR-2011
+28-DEC-2010
+28-JUL-2014
+29
+29-DEC-2011
+29-DEC-2014
+29-FEB-2012
+29-JUL-2011
+29-MAY-2015
+29-NOV-2010
+3
+30
+30-APR-2013
+30-AUG-2011
+30-DEC-2014
+30-JUN-2011
+30-SEP-2010
+30-SEP-2014
+30-SEP-2015
+31
+31-DEC-2012
+32
+33
+34
+35
+36
+37
+38
+39
+4
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+5
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+6
+60
+61
+62
+63
+64
+65
+7
+8
+8/6/11 1:24 PM
+9
+:: DWMA Level DOLR Reports ::
+:: IWMP Home ::
+:: New Work Reports ::
+:: Reports ::
+:: SLNA Level DOLR Reports ::
+@media print
+@media print{
+ALL
+APERTURE:
+About Us
+Abstract
+Achievements
+Achievements so far
+Action Plan Report(Proforma 10-16)
+Action Plan Report(Proforma-17)
+ActionPlanReport
+Activities
+Additional funds are provided for creating dedicated institutions
+Adilabad
+Afforestation including  block plantations, Agro-forestry and Horticulture development, Pasture  development.
+All new watersheds from 2008-09 onwards will be implemented under a single   programme called IWMP.
+Animal Husbandry activities under EPA, PSI AH in IWMP villages
+Annual Auditing Work of IWMP Accounts for the year 2014-15
+Area To Be Treated
+Area covered (Ha)----------------7.48 lack Hectares
+At a Glance
+B Indravelly(B Indravelly(NGO))
+B Indravelly(NGO)
+Batch
+Batch:
+BatchWise Allocation
+Beneficiary and people  participation in implementation of the program
+Benefits
+Best Practices Award under ICT Initiatives
+Bhadradri Kothagudem
+Bhusara Samrakshana
+Bhuvan Portal
+Block Wise Report
+Block:
+BlockWiseReport
+Budget Allocation
+C C Kunta(C C Kunta(NGO))
+C C Kunta(NGO)
+CAMERA:
+CFO
+CFO Login
+CRD certain instructions w.r.t finacial matters issued on IWMP and other ongoing watershed programmes in the state
+Cancellation of the allotment of Kondapur Project of Regode (M) and Hasnabad project of Raikode (M) allotted under IWMP 2009-10 and 2010-11 batches to DDS NGO
+Capacity building and training of all functionaries and stakeholders
+Categories
+Category
+Certain Non-negotiable and Essentials for implementing EPA  AH Interventions communicated.
+Certain instructions Regarding Payments and Implementing-issued
+Certain instructions Regarding Payments-issued.
+Changing the maximum lead for Surface storage pond from 2Km to 6Km.Allowing extent upto 1Hectare per farmer in Tank Silt Application for other farmers (40% contribution) work.
+Checking of land degradation
+Chinna Jeevala pempakam
+Circular No 126
+Circular No 140
+Circular No 148
+Circular No 152
+Circular No 17
+Circular No 170
+Circular No 3005
+Circular No 9
+Circular No 93
+Circular No 99
+Circular No.01/RD-SLNA/IWMP/NRM
+Circular No.06
+Circular No.10
+Circular No.106
+Circular No.110
+Circular No.112
+Circular No.140
+Circular No.141
+Circular No.143(Telugu)
+Circular No.148
+Circular No.152
+Circular No.220
+Circular No.25
+Circular No.2612
+Circular No.3005
+Circular No.4
+Circular No.42
+Circular No.43
+Circular No.57
+Circular No.68
+Circular No.74
+Circular No.90
+Circular No.95
+Circular No.RD-SLNA/09/GPS/2014
+Circular No:152
+Circular No:3005
+Circular No:42
+Circular for Livelihood Promotion strategy for IWMP in convergence with SERP
+Circular instructions on the decisions taken during review meeting of Watershed Programme held on 29th March , 2011
+Circulars
+Clarifications to Tender document on MEL & D
+Clarifications to Tender document on MEL & D.
+Cluster approach is followed and each cluster would consists of 1000 to 5000 hectares
+Cluster of Micro watersheds covering an area of 1000-5000 ha will be treated   as a project.
+Common Guidelines for Watershed Development Projects 2008 - IWMP - Constitution of State Level Nodal Agency (SLNA) - Certain Amendment - Orders - Issued.
+Common Guidelines for Watershed Development Projects, 2008 – 
+Common Guideliness for Watershed Development Projects,2008 Integrated Watershed Management Programme - Constitution of State Level Nodal Agency  (SLNA) Orders Issued.
+Communication of guidelines on Livelihood activities for Assetless families under LH component of IWMP through SERP for Batch-III (2011-12) Projects and allocation of 2nd spell funds of Batch-I & II Projects in IWMP areas Project and VO wise.
+Communication of revised MoU for execution between DWMA and NGO-PIAs
+Completed projects---------------18 ( 421 watersheds )
+Component Name
+Component Wise
+Consolidation phase
+Constitution of State Level Nodal Agency (SLNA) for Telangana State 
+Contact Us
+Convergence strategy
+Convergence with Community managed sustainable agriculture (CMSA) under the productivity enhancement component - orders - issued.
+Copyright @2014. All rights Reserved
+Crop demonstrations for  popularizing new crops/varieties
+D.No.1-3-1028, DWCRA Building, Lower Tankbund,
+DATE:
+DESIGNING, PRINTING & SUPPLY OF IWMP CALENDARS – 2013 UNDER IWMP
+DESIGNING, PRINTING & SUPPLY OF IWMP DIARY – 2013
+DISTRICT ABSTRACT
+DOLR DWMA Level Reports
+DOLR Input Sheets
+DOLR SLNA Level Reports
+DOLR WCC Level Reports
+DPAP and DDP Schemes
+DPR Entry
+DPR Preparation
+DWMA
+DWMA 
+DWMA Online
+Damerched(Damerched(NGO))
+Damerched(NGO)
+Dedicated institutions and organizational structure at national, state level, district level for implementation of the programme
+Dedicated institutions with professional teams at state and DWMA with   financial assistance to dedicated institutions.
+Department of Land Resource, Ministry of Rural Development, Government of India have issued the new watershed guidelines combining the DPAP/DDP and IWDP programmes.
+Designed & Developed by
+Designing, printing & supply of Annual Calendars -2018
+Designing, printing & supply of DIARIES -2018
+Designing,Printing & Supply of  Annual Calendars -2015 under IWMP
+Designing,Printing & Supply of  RD Diary-2015 under IWMP
+Desilting of village tanks  for drinking/Irrigation/Fisheries development
+Detail
+Details of Releases under EPA/PSI Components
+Developing degraded lands
+Development of water  harvesting structures such as low cost farm ponds, nalla bunds, Check dams,  Percolation tanks and groundwater recharge measures to conserve and allow  percolation of water.
+District
+District:
+Documents
+Download Docs
+Drainage line treatment with  a combination of vegetative and engineering structures
+Dry Land Horticulture Plantation works in WCCs
+During the year 2010  -11 upto July-2010, out of the available funds of Rs. 4786.71 Lakhs, an amount  of Rs.1549.16 Lakhs has been incurred as expenditure.
+During the year 2010 -11  upto July-2010, out of the available funds of Rs. 4786.71 Lakhs, an amount of  Rs.1549.16 Lakhs has been incurred as expenditure.
+EXPOSURE TIME:
+Employercontribution towards EPF and Wellfare fund is implemented,EPA extension for Raikode,Narsapur,Kodangal and Nalgonda WCCs of Medak,Mahboobnagar & Nalgonda districts respectively.
+Employment generation and  poverty alleviation.
+Ensuring Quality of NRM Works-Constitution of Quality Assurance Teams for IWMP.
+Ensuring Quality of NRM Works-Quality Assurance Equipment & Tools-Procurement of Auto Levelling Instruments.
+Establishing Watershed Computer Centers (WCCs) ,Certain Guidelines , Issued
+Execution of NRM works using machinery in watersheds -Revision of machine rate to Rs 21.00 per Cum
+Execution of NRM works_Inspection of SLNA Programme Officers_Quality Control Officers - Execution of Quality works Instructions
+Expenditure Analysis Report
+Extending the support to PoPs of IWMP villages in Dairy sector in convergence with LPD unit SERP guidelines communicated Reg
+FOCAL LENGTH:
+FTO
+Feature Documents
+Feature Documents
+Features Document for Version 1.0.1.7
+Features Document for Version 1.0.1.8
+Features Document for Version 1.0.1.9
+Features Document for Version 1.0.2.0
+File Name
+Film on PSI (Animal Husbandry)
+Film on overview
+Films on Community
+Financial Reports
+Financial Year:
+Fodder development and conservation-Implementation guidelines issued-submission of action plans- requested
+Format for furnishing
+Format for furnishing A/c Details
+Formation of WS Committees in 2010-11
+Foundation training on IWMP for PIA Coordinators.JPG
+From Date
+Fund allocation for Livelihoods for resource poor and Productivity   Enhancement of Agriculture and Livestock.
+Fund pattern is 90:10 (Central and State share).
+Funded By
+Funding Pattern
+G.O.Ms.No. 110
+G.O.Ms.No. 3
+G.O.Ms.No.11
+GO
+GO MS 7
+GO MS No.110-CMSA Activities
+GO MS No.3-Revision of Rural Standard Schedule of Rates (RSSR 2014-15) – Orders – Issued.
+GO No 238
+GO No 313
+GO No 338
+GO No 371
+GO No 396
+GO No.110
+GO No.150
+GO No.303
+GO No.308
+GO No.328
+GO No.333
+GO's & Circulars
+GOs
+GRAND TOTAL
+Gandhi Nagar, Hyderabad - 5000 080.
+Gandid(Gandid(NGO))
+Gandid(NGO)
+General instructions for implementation
+Generated by
+Girnoor(Girnoor(NGO))
+Girnoor(NGO)
+Go No 346
+Guidelines
+Guidelines for Social Audit of the Integrated Watershed Management Programme (IWMP)
+Guidelines for initiating Entry Point Activities under IWMP
+Gurrampode(Gurrampode(NGO))
+Gurrampode(NGO)
+Hardware and Software requirements for establishment of WCCs
+Home
+Home >> About Us
+Home >> Contact Us
+Home >> IEC Material
+Home >> Reports
+Home >> Reports >> DOLR DWMA Level Reports
+Home >> Reports >> DOLR SLNA Level Reports
+Home >> Reports >> DOLR WCC Level Reports
+Home >> Reports >> Horticulture & Afforestation Reports
+Home >> Reports >> NRM Special Reports
+Home >> Reports >> PMKSY Reports
+Home >> Reports >> Work Reports
+Home >> Reports >>PMKSY Reports
+Horticulture & Afforestation Reports
+IEC
+IEC Material
+INSTITUTIONAL FUND
+ISO SETTING:
+IWMP - 2010-11 batch of watersheds certain clarifications regarding implementation of project.
+IWMP - Habitation issues - system for proposing changes in IWMP software pertaining to habitations.
+IWMP - Works strategy-Guidelines issued
+IWMP -NRM works - Afforestation project - Bund plantation work in other farmers field - instructions -issued.
+IWMP DPRs
+IWMP Flexies for Exhibition
+IWMP HandBook
+IWMP LH Circular
+IWMP Online
+IWMP Photo Gallery
+IWMP Photo Gallery: Foundation training on IWMP for PIA Coordinators
+IWMP Photo Gallery: Micro ws board ,Solar lamp under EPA in Munidevunipally micro ws ,IWMP Mallepally ,Medak District
+IWMP Process guidelines for grounding of works
+IWMP STATISTICS
+IWMP brochure
+IWMP posters (English)
+IWMP posters (Telugu)
+IWMP –  Entry Point Activities – Execution of RO plants through RWS department
+IWMP – Implementation of EPA and PSI activities under IWMP– Certain instructions on grounding of interventions-issued - Reg.
+IWMP – Implementation of EPA/PSI activities under IWMP– Certain further instructions issued on grounding of interventions- Reg
+IWMP- Data Entry of Works identified under DPRs of 2009-10 IWMP watersheds - Instructions issued
+IWMP- NRM Works-Adoption of revised RSSR for NRM works under IWMP and change of ceiling of maximum daily wage
+IWMP- PNP Data Entry - Clarifications
+IWMP-AP-Positioning of Watershed Assistants at Village Watershed level-guidelines issued-Reg
+IWMP-Action plan and time frame for grounding of the IWMP 2011-12 Watershed Projects
+IWMP-MGRP -Ground water Recharge works- Certain modifications
+IWMP-NRM works-Afforestation project-Bund plantation work-instructions-issued
+IWMP-Positioning of Technical Officers (I and CB)
+Ibrahimpur (Ibrahimpur (NGO))
+Ibrahimpur (NGO)
+Image |
+Implementation of  Employer Provident fund for HRMS salaries.
+Implementation of "Water Absorption Trench at Foot Hills for other farmers " work in Land development for other farmers project,"Farm pond for other farmers" work in Land development for other farmers project
+Implementation of AH Revised Rates
+Implementation of Approve and upload for Material FTOs by PD
+Implementation of Entry Point Activities under IWMP: Certain instructions on grounding of EPA interventions
+Implementation of IWMP Watersheds in AP-Ensuring Quality of NRM Works-Quality Assurance Equipment & Tools-Procurement of GPS Instruments.
+Implementation of IWMP watershed projects_Execution of NRM works_Quality control_  Revised guidelines
+Implementation of IWMP-Linking of IWMP field Functionaries salaries with performance at WCC and MWS level.
+Implementation of NRM Works Under IWMP - Permitting "Earthen Bunding" in IWMP Watersheds.
+Implementation of NRM Works Under IWMP-Execution of Recharge Structures for Dried Bore wells.
+Implementation of PSI component
+Implementation of PSI component-Convergence with Agriculture and other line Departments.
+Implementation of new CSSR rates for existing works and new estimates of PT,MPT,CheckDam,CheckWall,LBS works.
+Implementation of new Work "Raising of 5x9 Bags in farmer, DWMA Nursery.
+Implementation of new work "Raising of Horticulture Plantation Seethaphal,Mango,Acid lime,cashew,coconut,Guava,Jamun 2015-16" for other farmers
+Implementation of new work "Repairs to existing CheckDam,Check Wall" in GWRP project.Updation of task quantities for new  "staggered trenches" work except name board task
+Implementation of new work Rising of Horticulture Plantation Cashew,Coconut 2015-16 in Horticulture plantation project.
+Implementation of new work Rising of Horticulture Plantation Seethaphal 2015-16 in Horticulture plantation project
+Implementation of performance deductions from salaries of FTE and WSA.
+Implementing strategy for NGO-PIA - Establishing Watershed Computer Centers (WCCs-NGO) and Works strategy- Guidelines-Issued
+Implementing wage hike rate from Rs.169 to Rs.180,PSI Implementation through UG for Lachampur Project.
+Instruction to fill data into DOLR DWMA Excel workbook
+Instruction to fill data into DOLR PIA Excel workbook
+Integrated Wasteland Development Programme (IWDP)
+Integrated Watershed Management Programme(IWMP)
+Involvement of Voluntary Organisations as Project Implementation Agencies (PIAs) under New Common Guidelines 2009-10 - Orders - Issued
+Involvement of Voluntary Organizations as Project Implementing Agencies (PIAs) under New Common Guidelines 2009-10, Amendment-Orders - Issued.
+ItemWiseAllocation Report
+JAlbum 6.4
+Jangaon
+Jayashanker Bhopalapally
+JobCard
+Jogulamba Gadwal
+Kalajatha Training Material
+Kazipet (Kazipet (NGO))
+Kazipet (NGO)
+Khammam
+Khandow(Khandow(NGO))
+Khandow(NGO)
+Kosigi(Kosigi(NGO))
+Kosigi(NGO)
+Kukkunuru(Kukkunuru(NGO))
+Kukkunuru(NGO)
+Kulkacherla(Kulkacherla(NGO))
+Kulkacherla(NGO)
+Kumram Bheem(Asifabad)
+Kusumasamudram (Kusumasamudram (NGO))
+Kusumasamudram (NGO)
+LATEST LINKS
+Lakkaram(Lakkaram(NGO))
+Lakkaram(NGO)
+Land development including  in-situ soil and moisture conservation measures like contour and graded bunds,  nursery raising for fodder, timber, fuel wood, horticulture and non-timber  forest product species
+Latest Updates
+LazaDezign
+Letter No 140
+Letter No 39
+Letter No.110
+Letter No.140
+Letter No.15
+Letter No.165
+Letter No.176
+Letter No.185
+Letter No.25
+Letter No.3005
+Letter No.36
+Letter No.37
+Letter No.39
+Letter No.74
+Letter No.79
+Letter No:140
+Letter No:168
+Letter No:3005
+Letter NoIWMP/PoP/SERP/12
+Letters
+Level
+Level:
+Liabilities Report
+Lingagudem (Lingagudem (NGO))
+Lingagudem (NGO)
+Lingala (Lingala (NGO))
+Lingala (NGO)
+List Of WCCs / Projects
+List of IWMP Training Materail:-
+List of WCC's/Projects
+Livelihood Promotion strategy in IWMP watersheds – Communication of certain amendments in the guidelines of implementation of Livelihoods strategy  to PoP families in other than SC/ST communities in IWMP areas.
+Livelihood orientation like productivity enhancement and entrepreneurship development emphasized by the programme
+Locaton of WCC
+Login
+Lr No.90-Revision of IWMP Data as per CSSR 2014-15 – Orders – Issued.
+Lr. No. 140
+Lr.No. 90
+Mahaboobnagar(Mahaboobnagar(NGO))
+Mahaboobnagar(NGO)
+Mahabubabad
+Mahabubnagar
+Mancherial
+Mandal:
+MandalWiseReport
+Medak
+Micro Watersheds
+Micro ws board ,Solar lamp under EPA in Munidevunipally micro ws ,IWMP Mallepally,Medak District.
+Mitigating Drought conditions
+Modifies process guidlines for Livelihood Component under IWMP
+Monitoring Report
+Monitoring, Evaluation, Learning & Documentation (MELD) for five batches of IWMP projects sanctioned in seven districts of the state.
+Monthwise Survival Capture for Avenue Plantation Work,Material Payments are not allowed for PO Accounts.
+Multi tier ridge to valley sequenced approach is followed
+NEWS & EVENTS
+NGO
+NREGS Portal
+NRM
+NRM Category
+NRM Special Reports
+Nagarkurnool
+Nalgonda
+Neeti Nilava Kattadalu
+New DSK Form
+New SRDS Fund Type for generation of HRMS Salaries.Provision for bill date adjustment of bills for WRP training conducted in 2013-14 Financial Year.
+New plant material and transportation task rates for Horticulture 14-15 Other Farmers works.Implementation of new work "Percolation Tank" in GWRP project.
+Nirmal
+No
+No. of IWMP projects
+Notification of Financial Bid
+O/o Commissioner Rural Development,
+Objectives of the programme
+Offline
+Ongoing Projects
+Ongoing projects-----------------83 ( 1078 watersheds )
+Online
+Opening of Financial Bid
+Operational strategy for Watershed Works and Implementation process
+Order
+Out of 1499 watersheds, 421  watersheds are completed and 1078 watersheds covering 83 projects are as  ongoing watersheds.
+Overall socio-economic  development of poor/disadvantage sections
+P A Pally(NGO)
+P A Pally(P A Pally(NGO))
+PAID
+PIA 
+PMKSY Reports
+PPT  Plantation
+PPT  QC
+PPT for Field observations
+PPT for PDs Conference
+PPT on Plantation
+PPT on QC
+PPT's / Documents
+PPTs and Documents
+PROJECT
+PROJECT FUND
+PSI AH- Supply of Back Yard Poultry units to SC, ST and PoP families in 
+PSI Circ.no.01 dt.2.2.2018
+Padipasuvula Samrakshana
+Page |
+Palsi - B(NGO)
+Palsi - B(Palsi - B(NGO))
+Parigi(NGO)
+Parigi(Parigi(NGO))
+Password :
+Pasugrasala pempakam
+Peddapur(NGO)
+Peddapur(Peddapur(NGO))
+Performance Deduction Relaxation and Arrears Provision from February to July 2015 for WSA Salaries.Inclusion of Productivity Enhancement Component in Financial Report.
+Photo
+Plant transportation & Plant material cost rate changes for HPP 2014-15 works for Mango Dry Land, Mango MIP & Sapota MIP.Provision of FTO cancellation details screen to view the cancelled FTO details
+Positioning of Project Officers
+Positioning of Watershed Assistants at Village Watershed level
+Posters of Primers
+Powers have been delegated to States by constituting State Level Nodal   Agency.
+Preparatory    phase
+Printing & Supply of  Account Registers under IWMP
+Printing & Supply of Account Registers
+Printing of Account Registers
+Proceedings
+Proceedings NO.19
+Proceedings NO.79
+Processes and time frame for grounding of the IWMP 2010-11
+Procurement of materials under EPA under IWMP
+Productivity Enhancement in AH sector -guidelines for implementation issued.
+Productivity Systems Improvement , LiveStock sector - instructions for implementation during 2013-14 Financial year.
+Programmes
+Project implementation in 3 phases. Preparatory phase, work phase and   Consolidation phase.
+Project period is 4-7 years
+ProjectWiseActionPlan
+Projects:
+Promotion and propagation of  non-conventional energy saving devices, energy conservation measures, Bio-fuel  plantations.
+Providing forward linkages for milk production by establishing AMCUs under EP activities
+Provision for Annexure-I works with task wise fund split for new estimations.FTO generations and uploading will be allowed for all NRM works for four days
+Provision for foreclosure of the Projects.
+QUICK LINKS
+Quality Control
+R 3.10:
+R 3.11: Financial
+R 3.12:
+R1.1: At a Glance Report
+R10.1: FTO
+R10: Reconciliation Reports
+R11.1: PSI Progress Abstract
+R11.2: PSI Detailed Progress Report
+R11.3: PSI Action
+R11.4: PSI Action Plan
+R11.5: PSI Activity-wise
+R11: PSI MIS Reports
+R12.1: Livelihood Reports
+R12: Livelihood Reports
+R13.1 (A): Baseline Survey Report
+R13.1 (B): Watershed Committees Report
+R13.1 (C): Financial Achievement Report
+R13.1 (D): Physical Achievement Report
+R13.1 (E): Project Outcome Report
+R13.1 (F): Convergence Report
+R13.1 (G): NRM Outcomes Report
+R13.1 (H): NRM Achievements Report
+R13.1 (I): Expenditure Report
+R13.1 (J): DOLR Integration Tool
+R13.1 : DOLR WCC Level Reports
+R13.2 (A): Expenditure Report
+R13.2 : DOLR DWMA Level Reports
+R13.3 (A): Expenditure Report
+R13.3 : DOLR SLNA Level Reports
+R13: DOLR Reports
+R14.1: User Group Particulars
+R14: User Group Reports
+R15.1: EPA Activities Report
+R15.2: EPA Progress Report
+R15.3: EPA Category wise Report
+R15: EPA Reports
+R16.10: WCC Planning Monitoring Reports
+R16.11:
+R16.12: Abstract Review Reports
+R16.13:
+R16.1: NRM Performance
+R16.2: EPA Target
+R16.3: Component
+R16.4:
+R16.5: GPS Co-ordinates Updation Monitoring
+R16.6: CMSA Releases Vs Expenditure
+R16.7: HH wise
+R16.8: Super
+R16.9: Expenditure
+R16: Monthly Review Reports
+R17.10: Mandal-Wise Action Plan(Proforma-19)
+R17.10:Mandal-Wise
+R17.11: Action
+R17.11: Action Plan Report(R17.5 New)
+R17.12:
+R17.12: Project-Wise Action Plan(R17.7 New)
+R17.13: Block-Wise
+R17.13: Block-Wise Action Plan(R17.8 New)
+R17.14: Action Plan
+R17.14: Action Plan - State Abstract Report(R17.9 New)
+R17.15:NRM
+R17.15:NRM Category wise Report(PMKSY)
+R17.16 Component wise Status Report(PMKSY-22 Projects)
+R17.16:Component wise Status Report(PMKSY-22 Projects)
+R17.17: List
+R17.17: List of Ongoing Projects Report(R17.1 New)
+R17.18:
+R17.18: Batch-Wise Details Report(R17.2 New)
+R17.19:
+R17.19: Item-Wise Details Report (R17.3 New)
+R17.1: List of Ongoing
+R17.1: List of Ongoing Projects Report(Proforma-1)
+R17.20: Report
+R17.21: Year Wise
+R17.21: Year Wise Strategic Action Plan
+R17.22: Strategic
+R17.22: Strategic Action Plan Report
+R17.23: Summary Of Rural
+R17.23:Summary Of Rural Development Department
+R17.2: Batch-Wise
+R17.2: Batch-Wise Details Report(Proforma-2)
+R17.3: Item-Wise
+R17.3: Item-Wise Details Report (Proforma-3)
+R17.4: Action Plan
+R17.4: Action Plan Report(Proforma 10-16)
+R17.5: Action Plan
+R17.5: Action Plan Report(Proforma-17)
+R17.6: Monitoring Report(Proforma-18)
+R17.6A: Monitoring Report(Abstract)
+R17.6B: Monitoring Report(Detailed)
+R17.7: Project-Wise
+R17.7: Project-Wise Action Plan(Proforma-18)
+R17.8: Block-Wise
+R17.8: Block-Wise Action Plan(Proforma-19)
+R17.9: Action
+R17.9: Action Plan - State Abstract Report
+R17: PMKSY DIP Reports
+R18.10: Mandal-Wise Action Plan(Proforma-19)
+R18.10:Mandal-Wise
+R18.11: Action
+R18.11: Action Plan Report(R18.5 New)
+R18.12:
+R18.12: Project-Wise Action Plan(R18.7 New)
+R18.13:
+R18.13: Block-Wise Action Plan(R18.8 New)
+R18.14: Action
+R18.14: Action Plan - State Abstract Report(R18.9 New)
+R18.15:NRM
+R18.15:NRM Category wise Report(PMKSY)
+R18.16:Component wise Status
+R18.17: List
+R18.17: List of Ongoing Projects Report(R18.1 New)
+R18.18:
+R18.18: Batch-Wise Details Report(R18.2 New)
+R18.19:
+R18.19: Item-Wise Details Report (R18.3 New)
+R18.1: List of
+R18.1: List of Ongoing Projects Report(Proforma-1)
+R18.20: Report
+R18.20: Report On Area To Be Treated
+R18.21: Year Wise
+R18.21: Year Wise Strategic Action Plan
+R18.22:
+R18.22: Strategic Action Plan Report
+R18.23: Summary Of
+R18.23:Summary Of Rural Development Department
+R18.2: Batch-Wise
+R18.2: Batch-Wise Details Report(Proforma-2)
+R18.3: Item-Wise
+R18.3: Item-Wise Details Report (Proforma-3)
+R18.4: Action
+R18.4: Action Plan Report(Proforma 10-16)
+R18.5: Action
+R18.5: Action Plan Report(Proforma-17)
+R18.6: Monitoring Report(Proforma-18)
+R18.6A: Monitoring Report(Abstract)
+R18.6B: Monitoring Report(Detailed)
+R18.7: Project-Wise
+R18.7: Project-Wise Action Plan(Proforma-18)
+R18.8: Block-Wise
+R18.8: Block-Wise Action Plan(Proforma-19)
+R18.9: Action
+R18.9: Action Plan - State Abstract Report
+R18: New Districts PMKSY DIP Reports
+R19.1: Works Monitoring Report
+R19.2: Works Monitoring Report(Daily & Weekly)
+R19:PMKSY-WDC & MGNREGS Convergence Report
+R1: Glance Reports
+R2.1(New): NRM Category Wise Report (with new Districts)
+R2.10: NRM
+R2.11: WDF Payment Monitoring Report
+R2.14 : Horticulture & Afforestation Reports
+R2.14.1: Fodder Development Progress Report
+R2.14.2: Details of Watch and Ward Payments Made Under Horticulture Plantation Program 2013-14 (I-year)
+R2.14.3: Horticulture Monthly Payment Report(LDP & HPP)
+R2.14.4: New Horticulture Plantation Report
+R2.14.5: Afforestation Plantation Report
+R2.14.6: Plantation Progress Report
+R2.14.7: Avenue Plantation Monthly Survival Report
+R2.14.8: Afforestation Plantation Detailed Report
+R2.14: Horticulture
+R2.15 : NRM Old Reports
+R2.15.1:
+R2.15.2: Work Type
+R2.15.3: Convergence Report
+R2.15.4: NRM Work
+R2.15.5:
+R2.15.6: Project/ Micro Watershed Level Expenditure Report
+R2.15.7: NRM Project Category Report
+R2.15.8:WorkID based Report(Search By WorkID)
+R2.15.9: Check Measurement and Super Check Deviation Report
+R2.15: NRM Old Reports
+R2.16: Physical Achievement Report
+R2.17: Form-1 Monitoring report (2009-10 batch) Report
+R2.1: NRM Category Wise Report
+R2.2: MicroWatershed Wise EGS and IWMP Progress Report
+R2.3: Shelf of Works
+R2.4: IWMP Beneficiary Details Report
+R2.5: NRM Works
+R2.6: Existing Water Harvesting Structures Monitoring Report
+R2.7:
+R2.8:100 Days Wage Payment Report
+R2.9:
+R20.1: Works Monitoring Report
+R20.2: Works Monitoring Report(Montly & Weekly)
+R20:Annexure-I Works(Enabled in WCC)
+R2: Work Reports
+R3.13: Statutory and Other Deductions Report
+R3.14: EPF Report
+R3.15: Allocation and Achievement of
+R3.16:Outstanding
+R3.17:NRM
+R3.18:Stopped FTO Details Report
+R3.19: SLIA File Status Report
+R3.1:
+R3.20: Committed
+R3.2:
+R3.3: Exception
+R3.4: Performance Ranking Report
+R3.5: Componentwise Status Report
+R3.6: FTO
+R3.7: FTO Wise Status Report(Based on Excel upload)
+R3.8:
+R3.9: Rejected
+R3: Financial Reports
+R4.1: Employee Tagging
+R4.2: IWMP Functioning Details
+R4.3: WCC Staff Monthly Performance VS Renumeration
+R4.4: WCC Vehicle
+R4: Employee Reports
+R5.10: DPR Status Report
+R5.11: DPR Abstract Report
+R5.12: IWMP
+R5.1: IWMP Abstract Report
+R5.2: DPR Data
+R5.3: DPR Data Entry
+R5.4: District
+R5.5: DPR Project
+R5.6: Freezing
+R5.7:
+R5.8: Cluster wise DPR
+R5.9: MicroWatershed wise
+R5: DPR Reports
+R6.1: NRM Category-wise Report
+R6.2: EPA Category-wise Report
+R6.3: NRM Beneficiary details
+R6.4: NRM Wage Employment Report
+R6: GP / Habitation wise Reports
+R7.1: Suspended Wage Seeker details
+R7.2: ePayOrder
+R7.3:
+R7.4: Revamped
+R7.5: Smart
+R7.6: Day-wise Online Payment Disbursed Details Report
+R7.7: Suspended Payments Delay Analysis Report
+R7: Direct Benefit Transfer Reports
+R8.1: List of Works Report
+R8.2: List of Works for Batch Closure Report
+R8: Special Reports
+R9.1: I&CB District
+R9.2: Advance
+R9.3: Training Wise
+R9.4: Batch wise Abstract
+R9.5: Target
+R9.6: IB Financial Progress
+R9.7: Consolidated
+R9.8: WRP Training
+R9: Institution & Capacity Building Reports
+RC No.152
+RD - IWMP – Productivity Enhancement in AH sector - implementation of individual based activities-guide lines on fund flow- issued Reg.
+RD - IWMP – Productivity Systems Improvement in AH sector - implementation of activities- certain instructions and clarifications on fund flow mechanism- issued -Reg.
+RD - Integrated Watershed Management Programme (IWMP) – 
+RD - Integrated Watershed Management Programme (IWMP) – Sanction of 50 Projects for treatment of 2.005 lakh ha in 8 districts of the State.
+RD- IWMP – Promotion of Watershed Resource Persons (WRPs) as part of decentralized capacity building strategy under IWMP
+RD-IWMP -Field Immersion of Project Officers, IWMP-Communication of schedule and guidelines- Issued
+RD-IWMP- Guidelines for Institution and Capacity Building (I and CB) strategy under Integrate Watershed Management Programme of Andhra Pradesh
+RD-IWMP-Execution of NRM Works-Inspection of SLNA Programme officers & Quality Control officers-Execution of Quality Works Instructions
+RD-SLNA – Planting interventions in Watersheds-Instructions–Issued Reg.
+RD-SLNA- Review meeting of APD (CB), CD-CLRCs  TOs (ICB) held on 31.01.2012 at AMR-APARD–Certain instructions–reg.
+RD-SLNA-IWMP- Batches I to IV-Planning of IWMP activities of all Components-Guidelines Issued
+RD-SLNA-IWMP- Delegation of Technical Sanction Powers to IWMP Functionaries
+RD-SLNA-IWMP- NRM Works- Construction and Desilting of CheckDams / Water Harvesting Structures
+RD-SLNA-IWMP-Execution of NRM Works-WDF contribution for NRM Works-GuideLines Issued
+RD-SLNA-IWMP-Implementation of IWMP Watersheds in AP- Ensuring Quality of NRM Works-Constitution of Quality Assurance Equipment and Tools-Procurment of GPS Instruments
+RD-SLNA-IWMP-Implementation of IWMP Watersheds in AP- Ensuring Quality of NRM Works-Constitution of Quality Assurance Teams for IWMP-GuideLines Issued
+RD-SLNA-IWMP-Implementation of IWMP-Issues raised by the field Functionaries in Execution of NRM & PSI Components-permitting new Works & Software Changes
+RD-SLNA-IWMP-Implementation of PSI Component-convergence with Agriculture and Other line Departments-GuideLines Issued
+RD-SLNA-IWMP-Verification of IWMP Works/Activities Through Social Audit,QC/QA wing and other Inspections.
+RD-SLNA-Undertaking field visits to Watershed villages by Project  Director along with Watershed staff
+REEMAP-Implementation of RYK
+RESOLUTION:
+Rajanna Sirsilla
+Rangareddy
+Rc NO.152
+Ready Reckoner for RCAI Validation
+Regarding DoLR
+Release Date
+Release of funds directly to District Water Management Agencies.
+Repair, restoration and  up-gradation of existing common property assets and structures in the watershed  to obtain optimum and sustained benefits from previous public investments.
+Report as on Date: 03-Sep-2018
+Reports
+Request Tracking
+Revamped Files Status Report
+Review meeting
+Roc No.152
+Rural Development Department
+Rural Development Integrated Watershed Management Programme (IWMP).Sanction of 98 Projects for treatment of 4,05,870 HA.Area in 12 districts of the State.
+Rural_Development
+S.No
+SCRD
+SCRD Login
+SERP Portal
+SLNA
+SLNA -CRD certain instructions w.r.t cadre strength under IWDP, DPAP, DDP districts and IWMP districts in the State
+SLNA -IWMP -Implementation of IWMP watershed projects- Execution of NRM works- Quality control - Guidelines - Issued.
+SLNA Level DoLR Input Sheet
+SLNA Online
+SLNA – IWMP – JE(WS)
+SLNA-HR Policy as part of Institution and Capacity building of IWMP staff and WCCs- Performance based  incentives to field staff of IWMP.
+SLNA-IWMP- Production Systems Improvement in IWMP watersheds - CMSA - IWMP Convergence - instructions issued
+SLNA-IWMP-Management and utilization of Watershed Development Fund through promotion of sustainable User groups in IWMP watersheds- guidelines issued
+SLNA-IWMP-Production Systems Improvement in IWMP watersheds -CMSA -IWMP Convergence action plan 2011-12 - instructions issued
+SLNA-IWMP-Production Systems Improvement in IWMP watersheds CMSA- IWMP Convergence - Horticulture Kitchen Garden instructions issued - Reg.
+SLNA-IWMP-Production systems improvement in IWMP watersheds- Convergence with CMSA -Grounding of CMSA interventions - Instructions- issued- Reg
+SLNA-IWMP-Production systems improvements in IWMP watersheds implemented by GO-PIAs in IWMP watersheds-guidelines issued.
+SLNA-IWMP-Production systems improvements in IWMP watersheds implemented by NGO-PIAs in IWMP watersheds-guidelines issued.
+SLNA-IWMP-Production systems improvements in IWMP watersheds-Convergence with CMSA release of funds to VO Accounts by PD, DWMA -guidelines issued.
+SLNA-IWMP-Productivity Enhancement (PE) strategy for GO-PIAs in IWMP watersheds-guidelines issued
+SLNA-Planting interventions-Action Plan for the year 2011-12 certain instructions issued.
+SLNA–IWMP- Model Watersheds -  Instructions issued- Reg.
+SPECIAL FEATURES
+SPSP
+SPSP File
+STEIT
+STEIT Login
+Sanction of 1,657 micro watersheds for treatment of 7,47,117 ha. Area in 12 districts of the State,Order,Issued
+Sanction of 1,911 microwatersheds for treatment of 7,40,899 ha. area in 12 districts of the State - Orders - Issued.
+Sanction of 97 Projects for treatment of 4,07,077 ha. area in 10 Districts of the State.
+Sanction of 97 Projects for treatment of 4,07,077 ha. area in 10 districts of the State – G.O Ms.No 371 dt:1.8.2013 – amendments issued..
+Sanction of projects under IWMP 2012-13
+Sangareddy
+Schedule of Presentation by MEL & D Tenders
+Scientific planning based on the scientific information available from remote sensing will be used
+Select
+Shaligouraram(NGO)
+Shaligouraram(Shaligouraram(NGO))
+Siddipet
+Sno
+Social
+Social Audit of IWMP
+State :
+State Level Nodal Agency (SLNA),
+State Level Report
+States would be empowered to sanction and oversee implementation of watersheds
+Status
+Steps To Enable Macro Security in MS Office 2003
+Stopping new creation of estimates of "Earthen Bunding with Plantation" work.Implementation of wage rate hike from Rs.149 to Rs.169.
+Strategic Action Plan
+Strategic_Action_Plan
+Subject
+Support for Supply of Breeding Bucks under PSI
+Suryapet
+Sustainable and increased  productivity of land
+Susthira Vyavasayam
+TATA CONSULTANCY SERVICES
+TOTAL
+Technical Hand Book on NRM
+Technically qualified tenderers will be notified to participate in the financial bid separately.
+Telangana
+Tender Document for Calender
+Tender Document for Diaries
+Tender Document for Diaries -2017
+Tender Docuument for Calendar-2017
+Tender Notification for PRINTING & SUPPLY OF ACCOUNT REGISTERS UNDER IWMP
+Tender Schedule for calenders
+Tender documents for MELD
+Tender for Calender
+Tender for Diaries
+Tender for Printing of IWMP Calendars 2013
+Tender for Printing of IWMP Diaries 2013
+Tender schedule for dairies
+Tenderers  qualified in the technical bid to participate in the financial bid being held in the O/o Commissioner, RD, and Telangana.
+Tenders
+Tenders for Auditing
+Tentative schedule of presentations by tenderers for MEL & D under IWMP to be held in the O/o Commissioner, RD, Telangana on 27.9.2014.
+Teretpelli (NGO)
+Teretpelli (Teretpelli (NGO))
+The Department of Rural Development has implemented watersheds through different
+The Department of Rural Development implemented watersheds through different programmes viz. Integrated Wastelands Development Programmes, Drought Prone Areas Programme and Desert Development programme.Based on the recommendations of Technical Committee under the Chairmanship of Prof. C.H. Hanumantha Rao, Department of Land resources, Government of India launched new integrated program on watershed development called Integrated Watershed Management Programme (IWMP) in 2008.
+The DoLR, GoI, has sanctioned 110 IWMP watersheds covering an area of 4.734 lakh ha with project cost of Rs. 56812.80 lakhs in 2009-10 and 171 IWMP watersheds covering an area of 7.408 lakh ha with a total cost of Rs 88907.88 lakhs for implementation in 12 districts of DPAP/DDP
+The IWMP is launched with an aim
+The duration of the programme would be for 4 to 7 years and divided into phases
+The key features of this new unified approach are as follows :-
+The salient features of IWMP guidelines are as follows :-
+The total area for treatment  under IWDP is 5.39 Lakhs hectares in 1078 ongoing watersheds in 7 Districts.
+To Date
+Total
+Total no of blocks---------------155
+Total no of districts------------7
+Total no of projects-------------101 ( 1499 watersheds )
+Transfer of Livelihood funds to MS by  SERP under Jeevanopadulu
+Type of PIA
+Type of Payment
+UPLOADED
+Unavailability of Watershed Assistants with desired qualifications in 2009-10 and 2010-11 IWMP watersheds. Relaxation Norms For Consideration
+Unit cost raised from Rs. 6,000 per ha to Rs. 12,000/ha.
+User 
+User Manual For Admin Approvals in Approval Screen
+User Manuals
+Username :
+Utnoor(NGO)
+Utnoor(Utnoor(NGO))
+Vikarabad
+WCC
+WCC Level DOLR Reports
+WCC Online
+WCC Online Version 1.0.0.1
+WCC Online Version 1.0.0.2
+WCC Online Version 1.0.0.3
+WCC Online Version 1.0.0.4
+WCC Online Version 1.0.0.5
+WCC Online Version 1.0.0.6
+WCC Online Version 1.0.0.7
+WCC Online Version 1.0.0.8
+WCC Online Version 1.0.0.9
+WCC Online Version 1.0.1.0
+WCC Online Version 1.0.1.1
+WCC Online Version 1.0.1.2
+WCC Online Version 1.0.1.3
+WCC Online Version 1.0.1.4
+WCC Online Version 1.0.1.5
+WCC Online Version 1.0.1.6
+WCCs of PIAs
+Wanaparthy
+Warangal (Urban)
+Warangal Rural
+Watershed
+Watershed Assistants Karadeepika
+Watershed Parichayam
+Watershed Works Phase:
+Watersheds
+Work Input Sheets
+WorkCode
+Works Reports
+Yadadri Bhuvanagiri
+Year Wise Action Plan
+body { background-image: url(../Res/bg.gif); background-repeat: repeat-x; }
+body { background-image: url(../res/bg.gif); background-repeat: repeat-x; }
+body {display:none;}
+itle="Contact Us">
+itle="Home">
+itle="IEC">
+itle="Photo Gallery">
+letter on iwmp budget released
+to restore the ecological balance by   harnessing, conserving and developing degraded natural resources such as soil,   vegetative cover and water and create sustainable livelihoods for asset   less.
+}
+– orders – issued

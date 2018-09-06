@@ -1,0 +1,232 @@
+# urls = ["http://tgahd.nic.in",
+#         "http://www.aasara.telangana.gov.in",
+#         "http://tsobmms.cgg.gov.in",
+#         "http://bathukamma.telangana.gov.in",
+#         "https://tgahd.nic.in"
+#         "https://www.aasara.telangana.gov.in",
+#         "https://tsobmms.cgg.gov.in",
+#         "https://bathukamma.telangana.gov.in",
+#         "http://ubdmis.telangana.gov.in",
+#         "https://ubdmis.telangana.gov.in",
+#         "http://bie.telangana.gov.in/",
+#         "https://bie.telangana.gov.in/",
+#         "http://ceotelangana.nic.in",
+#         "https://ceotelangana.nic.in"
+#         ]
+#
+# domains = ["tgahd.nic.in",
+#            "www.aasara.telangana.gov.in",
+#            "tsobmms.cgg.gov.in",
+#            "bathukamma.telangana.gov.in",
+#            "ubdmis.telangana.gov.in",
+#            "bie.telangana.gov.in",
+#            "ceotelangana.nic.in"
+#            ]
+
+urls = [
+        # "http://ccla.telangana.gov.in",
+        # "https://ccla.telangana.gov.in"
+        # "http://www.tgct.gov.in/tgportal",
+        # "https://www.tgct.gov.in/tgportal",
+        # "http://www.civilsupplies.telangana.gov.in/",
+        # "https://www.civilsupplies.telangana.gov.in/",
+        # "http://www.streenidhi.telangana.gov.in/",
+        # "http://www.streenidhi.telangana.gov.in/"
+        # "http://www.serp.telangana.gov.in/SHGTG/",
+        # "https://www.serp.telangana.gov.in/SHGTG/"
+        # "http://bse.telangana.gov.in/",
+        # "https://bse.telangana.gov.in/",
+        # "http://sadarem.telangana.gov.in",
+        # "http://sadarem.telangana.gov.in"
+        # "http://www.ehf.telangana.gov.in/",
+        # # "https://www.ehf.telangana.gov.in/"
+        # "http://forests.telangana.gov.in",
+        # "https://forests.telangana.gov.in"
+        # "http://telanganaepass.cgg.gov.in/",
+        # "https://telanganaepass.cgg.gov.in/"
+        # "https://finance.telangana.gov.in/",
+        # "http://finance.telangana.gov.in/"
+        # "https://treasury.telangana.gov.in/",
+        # "http://treasury.telangana.gov.in/"
+        # "http://governor.tsap.nic.in",
+        # "https://governor.tsap.nic.in"
+        # "http://www.ghmc.gov.in/",
+        # "https://www.ghmc.gov.in/"
+        # "http://chfw.telangana.gov.in/",
+        # "https://chfw.telangana.gov.in/"
+        # "https://www.tspolice.gov.in/",
+        # "https://www.tspolice.gov.in/jsp/howDoIUser.do?method=howDoICategories2&howDoICategoryId=51&howDoICategoryName=Women%20Protection"
+        # "http://www.tspolice.gov.in/"
+        # "http://hb.telangana.gov.in/",
+        # "https://hb.telangana.gov.in/"
+        # "http://www.hyderabadpolice.gov.in/",
+        # "https://www.hyderabadpolice.gov.in/"
+        # "http://ijp.telangana.gov.in/",
+        # "https://ijp.telangana.gov.in/"
+        # "http://industries.telangana.gov.in/",
+        # "https://industries.telangana.gov.in/"
+        # "http://ipr.tg.nic.in/",
+        # "https://ipr.tg.nic.in/"
+        # "http://irrigation.telangana.gov.in/",
+        # "https://irrigation.telangana.gov.in/"
+        # "http://it.telangana.gov.in/",
+        # "https://it.telangana.gov.in/"
+        # "http://janahitha.telangana.gov.in/",
+        # "http://janahitha.telangana.gov.in/about.html"
+        # "https://janahitha.telangana.gov.in/"
+        # "http://www.nrega.telangana.gov.in/",
+        # "https://www.nrega.telangana.gov.in/"
+        # "http://mabhoomi-telanganagov.in/",
+        # "https://mabhoomi-telanganagov.in/"
+        # "http://missionbhagiratha.telangana.gov.in/",
+        # "https://missionbhagiratha.telangana.gov.in/"
+        # "http://tmepma.cgg.gov.in/",
+        # "https://tmepma.cgg.gov.in/"
+        # "http://data.telangana.gov.in/",
+        # "https://data.telangana.gov.in/"
+        # "http://www.agrionline.telangana.gov.in/"
+        # "https://www.agrionline.telangana.gov.in/"
+        # "http://www.pred.telangana.gov.in/PRED",
+        # "https://www.pred.telangana.gov.in/",
+        # "http://www.pred.telangana.gov.in/PRED/jsp/Reports/Assets.jsp",
+        # "http://www.pred.telangana.gov.in/PRED/jsp/Reports/Administration.jsp",
+        # "http://www.pred.telangana.gov.in/PRED/jsp/Reports/Vision.jsp"
+        # "http://www.photonicsvalley.telangana.gov.in/",
+        # "https://www.photonicsvalley.telangana.gov.in/",
+        # "http://www.photonicsvalley.telangana.gov.in/Ecosystem.aspx"
+        # "http://pushkaralu.telangana.gov.in/",
+        # "https://pushkaralu.telangana.gov.in/"
+        # "http://qualitycontrol.telangana.gov.in/",
+        # "https://qualitycontrol.telangana.gov.in/"
+        # "http://registration.telangana.gov.in/",
+        # "https://registration.telangana.gov.in/"
+        # "http://rich.telangana.gov.in/",
+        # "https://rich.telangana.gov.in/"
+        # "https://tsroads.cgg.gov.in/",
+        # "http://tsroads.cgg.gov.in/"
+        # "http://www.rdhrms.telangana.gov.in/",
+        # # "https://www.rdhrms.telangana.gov.in/",
+        # "http://www.rdhrms.telangana.gov.in/TGHRMS/aboutUs.jsp"
+        # "http://rdcallcentre.telangana.gov.in/",
+        # "https://rdcallcentre.telangana.gov.in/"
+        # "https://www.efms.serp.telangana.gov.in/ihcbtg/",
+        # "http://www.efms.serp.telangana.gov.in/ihcbtg/"
+        # "https://aponline.gov.in/"
+        # "http://twd.telangana.gov.in/",
+        # "https://twd.telangana.gov.in/"
+        # "http://www.dsa.telangana.gov.in/",
+        # "https://www.dsa.telangana.gov.in/"
+        # "http://scert.telangana.gov.in/",
+        # "https://scert.telangana.gov.in/"
+        # "https://www.task.telangana.gov.in/",
+        # "http://www.task.telangana.gov.in/"
+        # "http://tsbhavan.telangana.gov.in/",
+        # "https://tsbhavan.telangana.gov.in/"
+        # "http://www.telangana.gov.in/",
+        # "https://www.telangana.gov.in/"
+        # "http://tsonline.gov.in/",
+        # "https://tsonline.gov.in/"
+        # "http://tscost.telangana.gov.in/",
+        # "http://tscost.telangana.gov.in/RegionalSciencecenter.aspx"
+        # "https://tscost.telangana.gov.in/"
+        # "http://publichealth.telangana.gov.in/"
+        # "https://publichealth.telangana.gov.in/"
+        # "https://tshousing.cgg.gov.in/",
+        # "http://tshousing.cgg.gov.in/"
+        # "http://www.tsts.telangana.gov.in/",
+        # "https://www.tsts.telangana.gov.in/"
+        # "http://www.telanganatourism.gov.in/",
+        # "https://www.telanganatourism.gov.in/"
+        # "https://mail.gov.in/",
+        # "http://mail.gov.in/"
+        # "http://transport.telangana.gov.in/",
+        # "https://transport.telangana.gov.in/"
+        # "http://tfiber.telangana.gov.in/",
+        # "https://tfiber.telangana.gov.in/"
+        # "https://t-hub.co/",
+        # "http://t-hub.co/"
+        # "http://softnet.telangana.gov.in/",
+        # "https://softnet.telangana.gov.in/"
+        # "http://ubd.telangana.gov.in/",
+        # "https://ubd.telangana.gov.in/"
+        # "http://wehub.telangana.gov.in/",
+        # "https://wehub.telangana.gov.in/"
+        # "http://wdcw.tg.nic.in/",
+        # "https://wdcw.tg.nic.in/"
+        # "https://www.serp.telangana.gov.in/",
+        # "http://www.serp.telangana.gov.in/"
+        # "https://www.tsgenco.co.in/",
+        # "http://www.tsgenco.co.in/"
+        # "http://www.iwmp.telangana.gov.in/",
+        # "https://www.iwmp.telangana.gov.in/"
+        "https://textbookcorporation.assam.gov.in/as",
+        "http://textbookcorporation.assam.gov.in/as"
+
+]
+
+domains = [
+           # "ccla.telangana.gov.in"
+           # "www.streenidhi.telangana.gov.in",
+           #  "www.serp.telangana.gov.in/SHGTG",
+           #  "bse.telangana.gov.in",
+           # # "sadarem.telangana.gov.in"]
+           #  "www.ehf.telangana.gov.in"
+           #  "forests.telangana.gov.in
+           #  "telanganaepass.cgg.gov.in"
+           #  "finance.telangana.gov.in"
+           #  "treasury.telangana.gov.in"
+           #  "governor.tsap.nic.in"
+           #  "www.ghmc.gov.in"
+           #  "chfw.telangana.gov.in"
+           #  "www.tspolice.gov.in"
+           #  "hb.telangana.gov.in"
+           #  "www.hyderabadpolice.gov.in"
+           #  "ijp.telangana.gov.in"
+           #  "industries.telangana.gov.in"
+           #  "ipr.tg.nic.in"
+           #  "irrigation.telangana.gov.in"
+           #  "it.telangana.gov.in"
+           #  "janahitha.telangana.gov.in"
+           #  "www.nrega.telangana.gov.in"
+          # "mabhoomi-telanganagov.in"
+          #   "missionbhagiratha.telangana.gov.in"
+          #   "tmepma.cgg.gov.in"
+        # "data.telangana.gov.in"
+        #     "www.agrionline.telangana.gov.in"
+        # "www.pred.telangana.gov.in"
+        # "www.photonicsvalley.telangana.gov.in"
+        # "pushkaralu.telangana.gov.in"
+        # "qualitycontrol.telangana.gov.in"
+        # "registration.telangana.gov.in"
+        # "rich.telangana.gov.in"
+        # "tsroads.cgg.gov.in"
+        # "www.rdhrms.telangana.gov.in"
+        # "rdcallcentre.telangana.gov.in"
+        # "www.efms.serp.telangana.gov.in"
+        # "aponline.gov.in"
+        # "twd.telangana.gov.in"
+        # "www.dsa.telangana.gov.in"
+        # "scert.telangana.gov.in"
+        # "www.task.telangana.gov.in"
+        # "tsbhavan.telangana.gov.in"
+        # "www.telangana.gov.in"
+        # "tsonline.gov.in"
+        # "tscost.telangana.gov.in"
+        # "publichealth.telangana.gov.in"
+        # "tshousing.cgg.gov.in"
+        # "www.tsts.telangana.gov.in"
+        # "www.telanganatourism.gov.in"
+        # "mail.gov.in"
+        # "transport.telangana.gov.in"
+        # "tfiber.telangana.gov.in"
+        # "t-hub.co"grep
+        # "softnet.telangana.gov.in"
+        # "ubd.telangana.gov.in"
+        # "wehub.telangana.gov.in"
+        # "wdcw.tg.nic.in"
+        # "www.serp.telangana.gov.in"
+        # "www.tsgenco.co.in"
+        # "www.iwmp.telangana.gov.in"
+        "textbookcorporation.assam.gov.in"
+
+]

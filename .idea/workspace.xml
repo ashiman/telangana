@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5b3a569b-5762-4cf9-bec6-e96433e458ea" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/telangana.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scrapy.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/allahabad" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/aarogyasri" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/aasara" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/agri" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/agrimarketing" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/aponline" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/bathukamma" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/bie" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/ccla" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/ceotelangana" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/chfw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/cm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/cmrf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/dsa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/dte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/efms" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/ehf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/exam" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/finance" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/fliphtml5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/forests" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/ghmc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/governor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/hb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/hyderabadpolice" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/ijp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/industries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/irrigation" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/it" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/iwmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/janahitha" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/mabhoomi-telanganagov" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/mail" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/missionbhagiratha" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/nrega" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/photonicsvalley" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/portal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/pred" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/pushkaralu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/qualitycontrol" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/rdcallcentre" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/rdhrms" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/registration" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/rich" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/sadarem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/scert" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/secure" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/softnet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/streenidhi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/t-hub" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/task" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/telangana" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/telanganatourism" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/temp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/tfiber" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/tgahd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/tmepma" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/transport" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/treasury" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/tsbhavan" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/tsche" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/tscost" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/tshousing" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/tsobmms" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/tsonline" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/tspolice" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/tsroads" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/tsts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/twd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/done/ubdmis" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/iwmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/partial/cdma" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/partial/civilsupplies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/partial/cm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/partial/ikppwd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/partial/sadarem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/partial/streenidhi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/partial/temp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/partial/tsche" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/serp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/temp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/temp.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/testing/agri" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/testing/cm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/textbookcorporation" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/tsgenco" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/wdcw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/data/wehub" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/helpers/1.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/helpers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/helpers/configuration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/helpers/single_pages.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/helpers/xpath_text.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telangana/spiders/generic.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="generic.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/telangana/spiders/generic.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="517">
+              <caret line="54" column="58" lean-forward="true" selection-start-line="54" selection-start-column="58" selection-end-line="54" selection-end-column="58" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="xpath_text.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/telangana/helpers/xpath_text.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="iwmp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/telangana/data/iwmp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18240">
+              <caret line="1216" column="43" selection-start-line="1216" selection-start-column="43" selection-end-line="1216" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="configuration.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/telangana/helpers/configuration.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="213">
+              <caret line="229" column="41" selection-start-line="229" selection-start-column="41" selection-end-line="229" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="textbookcorporation" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/telangana/data/textbookcorporation">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-111849">
+              <caret line="1774" column="17" selection-start-line="1774" selection-start-column="17" selection-end-line="1774" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tsgenco" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/telangana/data/tsgenco">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="166" column="6" selection-start-line="166" selection-start-column="6" selection-end-line="166" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="serp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/telangana/data/serp">
+          <provider selected="true" editor-type-id="LargeFileEditor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Propose to finalize the Terms and conditions of policy in consultation with the Govt. as against tailor made draft policy requested in the bid.</find>
+      <find>Your browser does not support inline frames or is currently configured not to display inline frames. Content can be viewed at actual source page: https://app.aarogyasri.gov.in/ASRI/commonActionNew.do?actionVal=RightFrame&amp;page=[%3E%3E%3Cb%3ECurrent-Procedures%3C/b%3E&amp;pageName=Current-Procedures&amp;mainMenu=Know%20More%20About&amp;subMenu=Current%20Procedures&amp;stateFlag=tg&amp;sessionReq=N&amp;.</find>
+      <find>PHCs</find>
+      <find>Hospitals</find>
+      <find>TAUK Bathukamma Celebrations – A Grand success in London</find>
+      <find>Pennsylvania Telangana Association Bathukamma &amp; Dasara Celebrations – 2017</find>
+      <find>Thimmajipeta</find>
+      <find>cd</find>
+      <find>The Telangana Housing Board</find>
+      <find>c</find>
+      <find>They even launched Andrcd</find>
+      <find>To ensure safe and sustainable PIPED drinking water supply from surface</find>
+      <find>Photonics Valley Corporation hacd</find>
+      <find>both financially and technicall</find>
+      <find>The emergence of New Stac</find>
+      <find>In the round  table organised b</find>
+      <find>These activities will also provide WE HUB accesscd</find>
+      <find>IGMSY is a Centrally Sponsored</find>
+      <find>It shall be the duty of every FTE(Ministerial and Support Staff) of the SERP to</find>
+      <find>R1. District level Position wise Filled and Vacant details Repo</find>
+      <find>The earlier settlements of the Arya</find>
+      <find>পাঠ্যপুথিৰ</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/telangana/data/done/bathukamma" />
+        <option value="$PROJECT_DIR$/telangana/helpers/xpath_text.py" />
+        <option value="$PROJECT_DIR$/telangana/helpers/single_pages.py" />
+        <option value="$PROJECT_DIR$/telangana/data/treasury" />
+        <option value="$PROJECT_DIR$/telangana/data/chfw" />
+        <option value="$PROJECT_DIR$/telangana/data/rdcallcentre" />
+        <option value="$PROJECT_DIR$/telangana/data/tscost" />
+        <option value="$PROJECT_DIR$/telangana/data/publichealth" />
+        <option value="$PROJECT_DIR$/telangana/helpers/configuration.py" />
+        <option value="$PROJECT_DIR$/telangana/data/textbookcorporation" />
+        <option value="$PROJECT_DIR$/telangana/spiders/generic.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="725" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="telangana" type="b2602c69:ProjectViewProjectNode" />
+              <item name="telangana" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/telangana/data/done" />
+      <recent name="$PROJECT_DIR$/telangana/data/partial" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/telangana/data/testing" />
+      <recent name="$PROJECT_DIR$/telangana/helpers" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.generic">
+    <configuration name="generic" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="telangana" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/telangana/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/telangana/spiders/generic.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="single_pages" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="telangana" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/telangana/helpers" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/telangana/helpers/single_pages.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.single_pages" />
+      <item itemvalue="Python.generic" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.generic" />
+        <item itemvalue="Python.single_pages" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b3a569b-5762-4cf9-bec6-e96433e458ea" name="Default" comment="" />
+      <created>1535104666085</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1535104666085</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32965517" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32965517" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3751724" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32965517" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/telangana/helpers/xpath_text.py</url>
+          <line>9</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/telangana/data/done/ipr">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telangana/data/done/irrigation">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telangana/data/done/it">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275025">
+          <caret line="18335" column="23" lean-forward="true" selection-start-line="18335" selection-start-column="23" selection-end-line="18335" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telangana/helpers/single_pages.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telangana/data/testing/cm">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telangana/data/done/nrega">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telangana/data/done/mabhoomi-telanganagov">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="432" column="23" selection-start-line="432" selection-start-column="23" selection-end-line="432" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telangana/data/done/missionbhagiratha">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4173">
+          <caret line="208" column="42" lean-forward="true" selection-start-line="208" selection-start-column="42" selection-end-line="208" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telangana/data/done/tmepma">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telangana/data/done/data">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-88684" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telangana/data/done/pred">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-630" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telangana/data/done/photonicsvalley">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7425">
+          <caret line="495" column="31" selection-start-line="495" selection-start-column="31" selection-end-line="495" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telangana/data/done/pushkaralu">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telangana/data/done/qualitycontrol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-863" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telangana/data/done/registration">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telangana/data/done/tsroads">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-909">
+          <caret line="113" column="30" selection-start-line="113" selection-start-column="30" selection-end-line="113" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telangana/data/done/rich">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telangana/data/done/rdhrms">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telangana/data/done/rdcallcentre">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telangana/data/done/efms">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telangana/data/done/aponline">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telangana/data/done/twd">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telangana/data/done/dsa">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telangana/data/done/scert">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telangana/data/done/task">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telangana/data/done/tsbhavan">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telangana/data/done/telangana">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telangana/data/done/tsonline">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telangana/data/done/tscost">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telangana/data/publichealth" />
+    <entry file="file://$PROJECT_DIR$/telangana/data/done/tshousing">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="55" column="153" selection-start-line="55" selection-start-column="122" selection-end-line="55" selection-end-column="153" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telangana/data/done/tsts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="489" column="24" selection-start-line="489" selection-start-column="24" selection-end-line="489" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telangana/data/done/telanganatourism">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telangana/data/done/mail">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3506" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telangana/data/done/transport">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telangana/data/done/tfiber">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="1533" column="18" selection-start-line="1533" selection-start-column="18" selection-end-line="1533" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telangana/data/done/t-hub">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telangana/data/done/softnet">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="114530" column="6" selection-start-line="114530" selection-start-column="6" selection-end-line="114530" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telangana/data/wehub">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="42" column="48" selection-start-line="42" selection-start-column="48" selection-end-line="42" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telangana/data/wdcw">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="215" column="30" selection-start-line="215" selection-end-line="215" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telangana/data/serp">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="8280" selection-start-line="8280" selection-end-line="8280" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="LargeFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../virenvs/wordsmith_env/lib/python2.7/site-packages/scrapy/spiders/crawl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../virenvs/wordsmith_env/lib/python2.7/site-packages/scrapy/linkextractors/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1545">
+          <caret line="112" column="43" selection-start-line="112" selection-start-column="43" selection-end-line="112" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../virenvs/wordsmith_env/lib/python2.7/site-packages/scrapy/linkextractors/lxmlhtml.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="105" column="27" lean-forward="true" selection-start-line="105" selection-start-column="27" selection-end-line="105" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telangana/data/iwmp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18240">
+          <caret line="1216" column="43" selection-start-line="1216" selection-start-column="43" selection-end-line="1216" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telangana/data/allahabad">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4431">
+          <caret line="50888" column="267" selection-start-line="50888" selection-start-column="232" selection-end-line="50888" selection-end-column="267" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telangana/data/tsgenco">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="166" column="6" selection-start-line="166" selection-start-column="6" selection-end-line="166" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telangana/helpers/configuration.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="229" column="41" selection-start-line="229" selection-start-column="41" selection-end-line="229" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telangana/data/textbookcorporation">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-111849">
+          <caret line="1774" column="17" selection-start-line="1774" selection-start-column="17" selection-end-line="1774" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telangana/helpers/xpath_text.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telangana/spiders/generic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="54" column="58" lean-forward="true" selection-start-line="54" selection-start-column="58" selection-end-line="54" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
